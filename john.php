@@ -1,0 +1,1 @@
+[ec2-user ~]$ sudo yum install -y aws-apitools-ec2
