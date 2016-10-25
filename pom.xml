@@ -4,7 +4,7 @@
 
   <groupId>com.leadapp1</groupId>
   <artifactId>demo-mvn1</artifactId>
-  <version>5.0</version>
+  <version>6.0</version>
   <packaging>jar</packaging>
 
   <name>demo-mvn1</name>
@@ -73,11 +73,11 @@
  <distributionManagement>
 	<snapshotRepository>
 		<id>repoS</id>
-		<url>http://localhost:8081/nexus/content/repositories/repoS/</url>
+		<url>http://192.168.2.138:8081/nexus/content/repositories/repoS/</url>
     </snapshotRepository>
 	<repository>
 		<id>repoR</id>
-		<url>http://localhost:8081/nexus/content/repositories/repoR/</url>
+		<url>http://192.168.2.138/nexus/content/repositories/repoR/</url>
     </repository>
   </distributionManagement>
    
