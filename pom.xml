@@ -77,7 +77,7 @@
     </snapshotRepository>
 	<repository>
 		<id>repoR</id>
-		<url>http://192.168.2.138/nexus/content/repositories/repoR/</url>
+		<url>http://192.168.2.138:8081/nexus/content/repositories/repoR/</url>
     </repository>
   </distributionManagement>
    
