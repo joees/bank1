@@ -4,7 +4,7 @@
 
   <groupId>com.leadapp1</groupId>
   <artifactId>demo-mvn1</artifactId>
-  <version>2.0</version>
+  <version>3.0</version>
   <packaging>jar</packaging>
 
   <name>demo-mvn1</name>
